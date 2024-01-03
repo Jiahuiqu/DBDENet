@@ -1,8 +1,12 @@
 # DBDENet
 If you find this code helpful, please kindly cite:
 
-@article{qu2021,
-title={A Dual-Branch Detail Extraction Network for Hyperspectral Pansharpening},
-author={Jiahui Qu, ...},
-journal={IEEE Transactions on Geoscience and Remote Sensing},
-year={2021}}
+@ARTICLE{9625980,  
+  &emsp;author={Qu, Jiahui and Hou, Shaoxiong and Dong, Wenqian and Xiao, Song and Du, Qian and Li, Yunsong},  
+  &emsp;journal={IEEE Transactions on Geoscience and Remote Sensing},  
+  &emsp;title={A Dual-Branch Detail Extraction Network for Hyperspectral Pansharpening},  
+  &emsp;year={2022},  
+  &emsp;volume={60},  
+  &emsp;number={},  
+  &emsp;pages={1-13},  
+  &emsp;doi={10.1109/TGRS.2021.3130420}}
