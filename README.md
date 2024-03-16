@@ -1,4 +1,4 @@
-# DBDENet
+# DBDENet for Hyperspectral Pansharpening
 The implementation of the paper "A Dual-Branch Detail Extraction Network for Hyperspectral Pansharpening" (IEEE Transactions on Geoscience and Remote Sensing 2022)
 
 ## Cite
